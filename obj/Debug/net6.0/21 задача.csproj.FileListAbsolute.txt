@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\21 задача\bin\Debug\net6.0\21 задача.exe
+C:\Users\User\Desktop\21 задача\bin\Debug\net6.0\21 задача.deps.json
+C:\Users\User\Desktop\21 задача\bin\Debug\net6.0\21 задача.runtimeconfig.json
+C:\Users\User\Desktop\21 задача\bin\Debug\net6.0\21 задача.dll
+C:\Users\User\Desktop\21 задача\bin\Debug\net6.0\21 задача.pdb
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.AssemblyInfo.cs
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.dll
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\refint\21 задача.dll
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.pdb
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\21 задача.genruntimeconfig.cache
+C:\Users\User\Desktop\21 задача\obj\Debug\net6.0\ref\21 задача.dll
